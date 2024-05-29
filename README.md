@@ -1,1 +1,0 @@
-# Cancer_reg_lineal
